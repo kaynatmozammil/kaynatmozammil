@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D5616AQFzBLNbQENY_Q/profile-displaybackgroundimage-shrink_350_1400/0/1714674651266?e=1729123200&v=beta&t=IYuDThfib7clDCBWH4SEgtMWpQqENTrK-M3TDJEpYIY)](https://kaynatmozammil.io)
+[![MasterHead](https://github.com/kaynatmozammil/kaynatmozammil/blob/main/banner_kaynat.png)](https://kaynatmozammil.io)
 
 <h1 align="center">Hi 👋, I'm Kaynat Mozammil</h1>
 <h3 align="center">Python Application Developer | Aspiring Data Scientist</h3>
