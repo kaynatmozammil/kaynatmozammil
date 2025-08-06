@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://kaynatmozammil.io">
+  <a href="https://kaynatmozammil.vercel.app/">
     <img src="https://github.com/kaynatmozammil/kaynatmozammil/blob/main/banner_kaynat.png" height="300" width="100%">
   </a>
 </p>
