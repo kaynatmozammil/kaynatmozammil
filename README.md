@@ -1,9 +1,9 @@
-# [![MasterHead](https://github.com/kaynatmozammil/kaynatmozammil/blob/main/banner_kaynat.png)](https://kaynatmozammil.io)
 <p align="center">
   <a href="https://kaynatmozammil.io">
-    <img src="https://github.com/kaynatmozammil/kaynatmozammil/blob/main/banner_kaynat.png" width="80%">
+    <img src="https://github.com/kaynatmozammil/kaynatmozammil/blob/main/banner_kaynat.png" height="150">
   </a>
 </p>
+
 
 
 <h1 align="center">Hi 👋, I'm Kaynat Mozammil</h1>
