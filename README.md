@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://kaynatmozammil.io">
-    <img src="https://github.com/kaynatmozammil/kaynatmozammil/blob/main/banner_kaynat.png" height="150">
+    <img src="https://github.com/kaynatmozammil/kaynatmozammil/blob/main/banner_kaynat.png" height="150" width="100%">
   </a>
 </p>
 
